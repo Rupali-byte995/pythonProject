@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad4205dd-8f6d-4a59-92b5-bc396282962f" name="Changes" comment="This is my first commit" />
+    <list default="true" id="ad4205dd-8f6d-4a59-92b5-bc396282962f" name="Changes" comment="This is my second commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 oct/lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/15 oct/lab001.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697339749516</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="This is my second commit">
+      <option name="closed" value="true" />
+      <created>1697359314406</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697359314406</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,7 +126,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is my first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is my first commit" />
+    <MESSAGE value="This is my second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is my second commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
