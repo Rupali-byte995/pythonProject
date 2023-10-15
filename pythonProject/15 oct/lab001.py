@@ -1,3 +1,13 @@
-print("I have done")
-print("I have done2")
-print("I have done3")
+a = int(input("Enter value of a"))
+b = int(input("Enter value of b"))
+print(a + b)
+print(a - b)
+print(a / b)
+print(a * b)
+print(a % b)
+p=True
+q=False
+print(p and q)
+a=10
+#print(-a)
+print(a**2)
