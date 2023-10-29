@@ -1,0 +1,9 @@
+a=("12")
+print(type(a))
+b=int(a)
+print(type(b))
+str="pramod"
+str1=list(str)
+print(str1)
+str1.sort()
+print(str1)

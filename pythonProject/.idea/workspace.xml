@@ -5,10 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad4205dd-8f6d-4a59-92b5-bc396282962f" name="Changes" comment="This is my second commit">
+      <change afterPath="$PROJECT_DIR$/18oct/lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18oct/lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20oct/lab008fibonacciseries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20oct/lab009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20oct/lab10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20oct/task20octpalindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20oct/task20octsumofdigit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23oct/lab11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23oct/task 1 vowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23oct/task1 right triangle pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23oct/task3 23oct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23oct/task4triple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25oct/lab 14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25oct/lab12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25oct/lab13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25oct/lab15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27_oct/lab16tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27_oct/lab17set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27_oct/lab_18_27octtask.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/16oct/task00316oct.py" beforeDir="false" afterPath="$PROJECT_DIR$/16oct/task00316oct.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16oct/task216oct.py" beforeDir="false" afterPath="$PROJECT_DIR$/16oct/task216oct.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +46,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="showPreview" value="true" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -43,8 +65,13 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.task216oct">
-    <configuration name="lab004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\RUPALI\PycharmProjects\pythonProject\20oct" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.lab_18_27octtask">
+    <configuration name="lab 14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16oct" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/25oct" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16oct/lab004.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/25oct/lab 14.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16oct" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/25oct" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16oct/lab005.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/25oct/lab15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task00316oct" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab16tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16oct" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27_oct" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16oct/task00316oct.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27_oct/lab16tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task16oct" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab17set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16oct" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27_oct" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16oct/task16oct.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27_oct/lab17set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task216oct" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab_18_27octtask" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16oct" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27_oct" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16oct/task216oct.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27_oct/lab_18_27octtask.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task216oct" />
-        <item itemvalue="Python.task00316oct" />
-        <item itemvalue="Python.task16oct" />
-        <item itemvalue="Python.lab005" />
-        <item itemvalue="Python.lab004" />
+        <item itemvalue="Python.lab_18_27octtask" />
+        <item itemvalue="Python.lab17set" />
+        <item itemvalue="Python.lab16tuple" />
+        <item itemvalue="Python.lab15" />
+        <item itemvalue="Python.lab 14" />
       </list>
     </recent_temporary>
   </component>
@@ -236,6 +263,11 @@
           <url>file://$PROJECT_DIR$/15 oct/task15oct.py</url>
           <line>15</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/25oct/lab15.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
