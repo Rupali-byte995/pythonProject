@@ -6,46 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ad4205dd-8f6d-4a59-92b5-bc396282962f" name="Changes" comment="This is my second commit">
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 nov/lab47 polymorphism.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 nov/lab47 polymorphism.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 nov/lab48.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 nov/lab48.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 nov/lab49 abc.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 nov/lab49 abc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 nov/lab50.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 nov/lab50.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 nov/lab51.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 nov/lab51.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 nov/lab52.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 nov/lab52.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 nov/lab53_collection.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 nov/lab53_collection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 nov/mod2.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 nov/mod2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15 oct/lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/15 oct/lab001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15Nov/lab54_try.py" beforeDir="false" afterPath="$PROJECT_DIR$/15Nov/lab54_try.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15Nov/lab55_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/15Nov/lab55_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st nov/lab22.py" beforeDir="false" afterPath="$PROJECT_DIR$/1st nov/lab22.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st nov/lab23filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/1st nov/lab23filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st nov/lab24filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/1st nov/lab24filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st nov/lab25filter dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/1st nov/lab25filter dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st nov/lab26lambda filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/1st nov/lab26lambda filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/30oct/lab 21.py" beforeDir="false" afterPath="$PROJECT_DIR$/30oct/lab 21.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/30oct/lab19.py" beforeDir="false" afterPath="$PROJECT_DIR$/30oct/lab19.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/30oct/lab20.py" beforeDir="false" afterPath="$PROJECT_DIR$/30oct/lab20.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/30oct/task30_oct.py" beforeDir="false" afterPath="$PROJECT_DIR$/30oct/task30_oct.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3nov/lab 29.py" beforeDir="false" afterPath="$PROJECT_DIR$/3nov/lab 29.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3nov/lab27 class and object.py" beforeDir="false" afterPath="$PROJECT_DIR$/3nov/lab27 class and object.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3nov/lab30.py" beforeDir="false" afterPath="$PROJECT_DIR$/3nov/lab30.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3nov/lab31.py" beforeDir="false" afterPath="$PROJECT_DIR$/3nov/lab31.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3nov/lab32.py" beforeDir="false" afterPath="$PROJECT_DIR$/3nov/lab32.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3nov/lab33 task 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/3nov/lab33 task 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6nov/lab34.py" beforeDir="false" afterPath="$PROJECT_DIR$/6nov/lab34.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6nov/lab35constructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/6nov/lab35constructor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6nov/lab36.py" beforeDir="false" afterPath="$PROJECT_DIR$/6nov/lab36.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6nov/lab37 visibility.py" beforeDir="false" afterPath="$PROJECT_DIR$/6nov/lab37 visibility.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8nov/lab 41.py" beforeDir="false" afterPath="$PROJECT_DIR$/8nov/lab 41.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8nov/lab38.py" beforeDir="false" afterPath="$PROJECT_DIR$/8nov/lab38.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8nov/lab39get and set.py" beforeDir="false" afterPath="$PROJECT_DIR$/8nov/lab39get and set.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8nov/lab40.py" beforeDir="false" afterPath="$PROJECT_DIR$/8nov/lab40.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8nov/lab42multilevel.py" beforeDir="false" afterPath="$PROJECT_DIR$/8nov/lab42multilevel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8nov/lab43hierarchy.py" beforeDir="false" afterPath="$PROJECT_DIR$/8nov/lab43hierarchy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8nov/lab44multiple_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/8nov/lab44multiple_inheritance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8nov/lab45 hybrid.py" beforeDir="false" afterPath="$PROJECT_DIR$/8nov/lab45 hybrid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8nov/lab46 mro.py" beforeDir="false" afterPath="$PROJECT_DIR$/8nov/lab46 mro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduleprac/mod1.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduleprac/mod1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
