@@ -1,4 +1,4 @@
-input_string=input("enter the palindrome check")
+#input_string=input("enter the palindrome check")
 #ABCD
 # def pali_checker(input_string):
 #     rev_string=""
@@ -11,7 +11,4 @@ input_string=input("enter the palindrome check")
 # else:
 #     print("Not a palindrome")
 # Using built in method
-if(input_string==input_string[::-1]):
-    print("Palindrome")
-else:
-    print("Not a palindrome")
+# ipalindrome number
